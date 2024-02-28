@@ -1,15 +1,15 @@
 {
-  "name": "precise-commits",
+  "name": "@khulnasoft/precise-commits",
   "version": "0.0.0-development",
   "main": "lib/index.js",
-  "author": "James Henry <james@henry.sc>",
+  "author": "KhulnaSoft DevOps <info@khulnasoft.com>",
   "description": "precise-commits",
   "files": [
     "bin",
     "lib"
   ],
   "bin": "bin/index.js",
-  "repository": "JamesHenry/precise-commits",
+  "repository": "khulnasoft/precise-commits",
   "license": "MIT",
   "scripts": {
     "test": "npm run build && jest",
